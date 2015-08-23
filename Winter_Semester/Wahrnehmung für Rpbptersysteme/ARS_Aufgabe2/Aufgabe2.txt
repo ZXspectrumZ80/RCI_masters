@@ -1,0 +1,48 @@
+In dieser Aufgabe wollen wir die Erkennung und Lagebestimmung eines einfachen planaren Objektes mithilfe seiner Textur üben. Dazu verwenden Sie bitte Matlab mit der Computer Vision System Toolbox (CVST, diese sollte in der Campuslizenz enthalten sein).
+
+Die Aufgabestellung und der zu verwendende Ansatzwird im Laufe des heutigen Tages (8.1.15) noch etwas weiter detailliert.
+
+Sie haben für diese Aufgabe bis zum 23.1.15 Zeit 
+
+Grundsätzlich: 
+
+Kalibierung der Kamerageometrie mit MATLAB CVST. Die erforderlichen Kalibierbilder (Schachbrettmuster) liegen bei.
+
+Bildanalyse unter Verwendung der SURF features (siehe dazu die Matlab-Hilfe).
+
+Anmerkung, Bilder lassen sich mit Doppelklick im Arbeitsverzeichnis-View importieren. Sie müssen die Bilder für die SURF-Funktionen noch mit RGB2GRAY in Graustufen umwandeln!
+
+Ein "Modell" des Objektes finden Sie in fritz_model2.png, die Box ist im Original 0,126m breit!
+
+Eine "Szene" (nicht entzerrtes Rohbild der Kamera), die das zu suchende Objekt enthält ist in fritz_szene.png enthalten.
+
+Entzerrung der Szene mit der entsprechenden MATLAB-Funktion.
+
+Ziel ist, das Objekt im Bild zu finden und seine 6D-Lage relativ zur Kamera inkl. deren Unsicherheit (z.B. Kovarianzmatrix) zu schätzen.
+
+% Wichtige funktionen: 
+%
+% Hilfsfunktionen: imread, rgb2gray, imshow
+%
+% Kameramodell und 3D: undistortImage, extrinsics
+%
+% Lokale Merkmale: detectSURFFeatures, extractFeatures, matchFeatures, showMatchedFeatures
+%
+
+%
+% Beispieldaten hereinladen
+%
+model = imread('fritz_model2.png');
+imshow(model);
+
+scene = imread('fritz_scene.png');
+imshow(scene);
+
+load('calibrationSession');
+
+boxImage = rgb2gray(model);
+sceneImage = undistortImage(rgb2gray(scene),calibrationSession.CameraParameters);
+imshow(boxImage);
+imshow(sceneImage);
+
+

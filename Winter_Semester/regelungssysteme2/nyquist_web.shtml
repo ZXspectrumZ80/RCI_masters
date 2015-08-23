@@ -1,0 +1,35 @@
+<!-- $Revision: 2.0 $ -->
+<HTML>
+<HEAD>
+<TITLE>Online-&Uuml;bung zum Nyquist-Kriterium</TITLE>
+</HEAD>
+
+<FRAMESET ROWS="*,50pt" frameborder="0" border="0" framespacing="0">
+	<FRAMESET COLS="185pt,10pt,*" frameborder="0" border="0" framespacing="0">
+		<FRAME SRC="/include/frame_sidebar.shtml"
+			border=0 
+			marginwidth=0
+			marginheight=0>
+		<FRAME SRC="/include/frame_space.shtml"
+			border=0 
+			marginwidth=0
+			marginheight=0>
+		<FRAMESET ROWS="50pt,*" frameborder="0" border="0" framespacing="0">
+			<FRAME SRC="/include/frame_header.shtml" 
+				border=0 
+				marginwidth=0 
+				marginheight=0>
+			<FRAME SRC="nyquist_start.shtml" 
+				NAME="outputwindow" 
+				border=0 
+				marginwidth=0 
+				marginheight=0>
+		</FRAMESET>	
+	</FRAMESET>
+	<FRAME SRC="/include/frame_footer.shtml" 
+		border=0 
+		marginwidth=0 
+		marginheight=0>
+</FRAMESET>
+
+</HTML>

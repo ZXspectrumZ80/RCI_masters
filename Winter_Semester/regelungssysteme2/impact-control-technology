@@ -1,0 +1,462 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>The Impact of Control Technology | IEEE Control Systems Society </title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/ieeecss.org/themes/society_ieeecss/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/ieeecss.org/files/css/css_c849e52d77072062353067c271d2b75f.css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/grid16-960.css" />
+  <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie8-fixes.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/cc_default/css/ie8-fixes.css" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie7-fixes.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/cc_default/css/ie7-fixes.css" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie6-fixes.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/cc_default/css/ie6-fixes.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/ieeecss.org/themes/society_ieeecss/css/ie6-fixes.css" />
+  <![endif]-->
+    <script type="text/javascript" src="/sites/ieeecss.org/files/js/js_df616152b28108b8f0f0af9a0bc1174b.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "dhtmlMenu": { "siblings": "siblings", "relativity": "relativity", "children": "children", "slide": 0, "clone": 0, "doubleclick": 0 }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/ieeecss.org/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": true, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "show_caption": true, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false }, "cron": { "basePath": "/poormanscron", "runNext": 1433090367 } });
+//--><!]]>
+</script>
+</head>
+
+<body id="pid-general-impact-control-technology" class="not-front not-logged-in page-node node-type-page no-sidebars global-context full-node layout-first-main sidebars-split font-family-lucida font-size-12 grid-type-960 grid-width-16">
+
+  <div id="page" class="page">
+    <div id="page-inner" class="page-inner">
+      <div id="skip">
+        <a href="#main-content-area">Skip to Main Content Area</a>
+      </div>
+
+      <!-- header-top row: width = grid_width -->
+      
+      <!-- header-group row: width = grid_width -->
+      <div id="header-group-wrapper" class="header-group-wrapper full-width">
+        <div id="header-group" class="header-group row grid16-16">
+          <div id="header-group-inner" class="header-group-inner inner clearfix">
+                                    
+              
+<div id="block-block-11" class="block block-block odd first last grid16-16 ">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <p><a href="http://ieeecss.org"><img src="http://ieeecss.org/sites/ieeecss.org/files/society_ieeecss_logo.png" width="940" height="100" /></a></p>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+            
+           
+                      </div><!-- /header-group-inner -->
+        </div><!-- /header-group -->
+      </div><!-- /header-group-wrapper -->
+
+      <!-- preface-top row: width = grid_width -->
+      	  
+	  <div id="utility-bar-wrapper" class="utility-bar-wrapper full-width">
+	    <div id="utility-bar" class="utility-bar row grid16-16">
+		  <div id="utility-bar-inner" class="utility-bar-inner inner">
+		    <!-- Added breadcrumbs into 'untility' bar' -->
+	        <span class="block grid12-9"><div id="breadcrumbs" class="breadcrumbs block">
+<div id="breadcrumbs-inner" class="breadcrumbs-inner inner clearfix">
+<div class="breadcrumb"><a href="/">Home</a> » The Impact of Control Technology</div></div><!-- /breadcrumbs-inner -->
+</div><!-- /breadcrumbs -->
+</span>
+		  </div><!-- /utility-bar-inner -->
+	    </div><!-- /utility-bar -->
+	  </div> <!-- /utility-bar-wrapper -->
+	  
+      <!-- main row: width = grid_width -->
+      <div id="main-wrapper" class="main-wrapper full-width">
+        <div id="main" class="main row grid16-16">
+          <div id="main-inner" class="main-inner inner clearfix">
+            <div id="sidebar-first" class="sidebar-first row nested grid16-3">
+<div id="sidebar-first-inner" class="sidebar-first-inner inner clearfix">
+  
+<div id="block-menu-primary-links" class="block block-menu odd first grid16-0 ">
+  <div class="inner clearfix">
+            <h2 class="title block-title">Navigation</h2>
+        <div class="content clearfix">
+      <ul class="menu"><li class="leaf first dhtml-menu "><a href="/front-page" id="dhtml_menu-414">Home</a></li>
+<li class="leaf  dhtml-menu "><a href="/general/control-systems-are-ubiquitous" id="dhtml_menu-1630">Control Systems are Ubiquitous</a></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/awards" title="Society Awards listing" id="dhtml_menu-1689">Awards</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/awards/awards-program" title="Awards Program" id="dhtml_menu-5871">Awards Program</a></li>
+<li class="leaf  dhtml-menu "><a href="/awards/2014-award-recipients" title="2013 Award Recipients" id="dhtml_menu-6012">2014 Award Recipients</a></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/awards/css-awards-list" id="dhtml_menu-5872">CSS Awards list</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/awards/hendrik-w-bode-lecture-prize" id="dhtml_menu-1640">Hendrik W. Bode Lecture Prize</a></li>
+<li class="leaf  dhtml-menu "><a href="/awards/antonio-ruberti-young-researcher-prize" id="dhtml_menu-1641">Antonio Ruberti Young Researcher Prize</a></li>
+<li class="leaf  dhtml-menu "><a href="/awards/george-s-axelby-outstanding-paper-award" id="dhtml_menu-1642">George S. Axelby Outstanding Paper Award</a></li>
+<li class="leaf  dhtml-menu "><a href="/awards/ieee-transactions-control-systems-technology-outstanding-paper-award" id="dhtml_menu-1643">TCST Outstanding Paper Award</a></li>
+<li class="leaf  dhtml-menu "><a href="/awards/ieee-control-systems-magazine-outstanding-paper-award" id="dhtml_menu-1644">CSM Outstanding Paper Award</a></li>
+<li class="leaf  dhtml-menu "><a href="/awards/control-systems-technology-award" id="dhtml_menu-1645">Control Systems Technology Award</a></li>
+<li class="leaf  dhtml-menu "><a href="/awards/control-systems-society-transition-practice-award" id="dhtml_menu-1646">Transition to Practice Award</a></li>
+<li class="leaf  dhtml-menu "><a href="/awards/multi-conference-systems-and-control-best-student-paper-award" id="dhtml_menu-1647">MSC Best Student-Paper Award</a></li>
+<li class="leaf  dhtml-menu "><a href="/awards/conference-decision-and-control-best-student-paper-award" id="dhtml_menu-1648">CDC Best Student-Paper Award</a></li>
+<li class="leaf  dhtml-menu "><a href="/awards/outstanding-chapter-award" id="dhtml_menu-1649">Outstanding Chapter Award</a></li>
+<li class="leaf last dhtml-menu "><a href="/awards/distinguished-member-award" id="dhtml_menu-1650">Distinguished Member Award</a></li>
+</ul></li>
+<li class="leaf  dhtml-menu "><a href="/awards/ieee-control-systems-award" title="IEEE Control Systems Award" id="dhtml_menu-5874">IEEE Control Systems Award</a></li>
+<li class="leaf  dhtml-menu "><a href="/member-activities/css-ieee-fellows" title="CSS IEEE Fellows" id="dhtml_menu-5873">CSS IEEE Fellows</a></li>
+<li class="leaf last dhtml-menu "><a href="/awards/other-ieee-awards" id="dhtml_menu-1651">Other IEEE Awards</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/publications/css-publications" id="dhtml_menu-1631">Publications</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/publications/css-publications" id="dhtml_menu-1660">CSS Publications</a></li>
+<li class="leaf  dhtml-menu "><a href="/publications-content-digest" id="dhtml_menu-3893">CSS Publications Digest</a></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/publications/tac" id="dhtml_menu-1691">Transactions on Automatic Control</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/publications/tac" id="dhtml_menu-1654">General Information</a></li>
+<li class="leaf  dhtml-menu "><a href="http://www.nd.edu/~ieeetac/information.html" target="_blank" id="dhtml_menu-1699">Information for Authors</a></li>
+<li class="leaf  dhtml-menu "><a href="http://www.nd.edu/~ieeetac/submissions.html" target="_blank" id="dhtml_menu-1700">Electronic Submission</a></li>
+<li class="leaf  dhtml-menu "><a href="http://www.nd.edu/~ieeetac/special.html" target="_blank" id="dhtml_menu-1701">Special Issues</a></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeecss.org/contacts/tac-editorial-board" id="dhtml_menu-1702">Editorial Board</a></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9" target="_blank" id="dhtml_menu-1703">Contents</a></li>
+<li class="leaf last dhtml-menu "><a href="http://www.nd.edu/~ieeetac/" target="_blank" id="dhtml_menu-1704">TAC Website</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/publications/tcst" id="dhtml_menu-1705">Transactions on Control Systems Technology</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/publications/tcst" id="dhtml_menu-1655">General Information</a></li>
+<li class="leaf  dhtml-menu "><a href="/publications/tcst/information-authors" id="dhtml_menu-1707">Information for Authors</a></li>
+<li class="leaf  dhtml-menu "><a href="/publications/tcst/tcst-guidelines-reviewers" id="dhtml_menu-1708">TCST Guidelines for Reviewers</a></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87" target="_blank" id="dhtml_menu-1709">Current and Previous Issues</a></li>
+<li class="leaf  dhtml-menu "><a href="/publications/tcst/news-and-related-links" id="dhtml_menu-1710">News and Related Links</a></li>
+<li class="leaf last dhtml-menu "><a href="http://ieeecss.org/contacts/tcst-editorial-board" id="dhtml_menu-1711">Editorial Board</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/publications/transactions-control-network-systems-1" id="dhtml_menu-5970">Transactions on Control of Network Systems</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/publications/transactions-control-network-systems" title="Transactions on Control of Network Systems" id="dhtml_menu-5971">General Information</a></li>
+<li class="leaf  dhtml-menu "><a href="http://sites.bu.edu/tcns/information-for-authors/" target="_blank" id="dhtml_menu-5972">Information for Authors</a></li>
+<li class="leaf  dhtml-menu "><a href="/general/electronic-submission" id="dhtml_menu-5978">Electronic Submission</a></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/general/editorial-board" id="dhtml_menu-5973">Editorial Board</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="http://ieeecss.org/contacts/tcns-senior-editor" id="dhtml_menu-5974">Senior Editors</a></li>
+<li class="leaf last dhtml-menu "><a href="http://ieeecss.org/contacts/tcns-associate-editor" id="dhtml_menu-5975">Associate Editors</a></li>
+</ul></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6509490" target="_blank" id="dhtml_menu-5976">Contents</a></li>
+<li class="leaf last dhtml-menu "><a href="http://sites.bu.edu/tcns/" target="_blank" id="dhtml_menu-5977">TCNS Website</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/publications/csm" id="dhtml_menu-1706">Control Systems Magazine</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/publications/csm" id="dhtml_menu-1656">General Information</a></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeecss.org/contacts/csm-editorial-board" id="dhtml_menu-1712">Editorial Board</a></li>
+<li class="leaf last dhtml-menu "><a href="/publications/csm/submissions" id="dhtml_menu-1713">Submissions</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/publications/e-letter/e-letter" id="dhtml_menu-1657">E-Letter</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/publications/e-letter/e-letter" id="dhtml_menu-2239">General Information</a></li>
+<li class="leaf  dhtml-menu "><a href="/e-letter/article-submission" id="dhtml_menu-2197">Article Submission</a></li>
+<li class="leaf  dhtml-menu "><a href="/publications/e-letter/archive/current" title="Most recent CSS E-Letter publication" id="dhtml_menu-2231">Current E-Letter</a></li>
+<li class="leaf  dhtml-menu "><a href="/publications/e-letter/archive" title="Archive of all CSS E-Letters" id="dhtml_menu-2308">E-Letter Archive</a></li>
+<li class="leaf last dhtml-menu "><a href="/newsletter/subscriptions" id="dhtml_menu-2314">Subscribe/Unsubscribe</a></li>
+</ul></li>
+<li class="expanded last dhtml-menu  collapsed start-collapsed "><a href="/publications/systems-and-control-cssy-and-optimization-and-control-mathoc-sections-arxiv" id="dhtml_menu-2855">arXiv</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/publications/control-related-categories-arxiv" title="Control-related categories of arXiv" id="dhtml_menu-6891">Control-related categories of arXiv</a></li>
+<li class="leaf last dhtml-menu "><a href="/publications/submission-information" title="Submission information" id="dhtml_menu-6892">Submission information</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/conferences" title="Upcoming and Concluded Society Conferences" id="dhtml_menu-1688">Conferences</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/conferences/css-conferences" id="dhtml_menu-1661">CSS Conferences</a></li>
+<li class="leaf  dhtml-menu "><a href="/conferences" title="Upcoming and Concluded Society Conferences" id="dhtml_menu-3529">Conference Listing</a></li>
+<li class="leaf  dhtml-menu "><a href="/conferences/conference-editorial-board" id="dhtml_menu-1662">Conference Editorial Board</a></li>
+<li class="leaf  dhtml-menu "><a href="/conferences/conference-publications" id="dhtml_menu-1663">Conference Publications</a></li>
+<li class="leaf  dhtml-menu "><a href="/conferences/request-technical-co-sponsorship" id="dhtml_menu-1664">Request Technical Co-Sponsorship</a></li>
+<li class="leaf last dhtml-menu "><a href="/conferences/add-conference" id="dhtml_menu-1665">Add a Conference</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/technical-activities/css-technical-activities" id="dhtml_menu-1698">Technical Activities</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/technical-activities/css-technical-activities" id="dhtml_menu-1669">CSS Technical Activities</a></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/technical-activities/css-technical-activities" id="dhtml_menu-1736">Technical Committees</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/technical-activities/aerospace-controls" id="dhtml_menu-1737">Aerospace Controls</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/automotive-controls" id="dhtml_menu-1742">Automotive Controls</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/technical-committee-computational-aspects-control-system-design" id="dhtml_menu-1744">Computational Aspects of Control System Design</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/control-education" id="dhtml_menu-1745">Control Education</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/discrete-event-systems" id="dhtml_menu-1746">Discrete Event Systems</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/distributed-parameter-systems" id="dhtml_menu-1747">Distributed Parameter Systems</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-committee/healthcare-and-medical-systems" title="Medical and Health Care Systems" id="dhtml_menu-6132">Healthcare and Medical Systems</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/hybrid-systems" id="dhtml_menu-1748">Hybrid Systems</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/intelligent-control" id="dhtml_menu-1750">Intelligent Control</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/manufacturing-automation-and-robotic-control" id="dhtml_menu-1751">Manufacturing Automation and Robotic Control</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/networks-and-communications" id="dhtml_menu-1752">Networks and Communications</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/nonlinear-systems-and-control" id="dhtml_menu-1753">Nonlinear Systems and Control</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/power-generation" id="dhtml_menu-1754">Power Generation</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/process-control" id="dhtml_menu-1749">Process Control</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/smart-cities" title="Smart Cities" id="dhtml_menu-6815">Smart Cities</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/smart-grids" id="dhtml_menu-1757">Smart Grids</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/system-identification-adaptive-control" id="dhtml_menu-1760">System Identification &amp; Adaptive Control</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/systems-biology" id="dhtml_menu-1759">Systems Biology</a></li>
+<li class="leaf  dhtml-menu "><a href="/technical-activities/systems-uncertainty" id="dhtml_menu-1761">Systems with Uncertainty</a></li>
+<li class="leaf last dhtml-menu "><a href="/technical-activities/variable-structure-and-sliding-mode-control" id="dhtml_menu-1762">Variable Structure and Sliding Mode Control</a></li>
+</ul></li>
+<li class="leaf last dhtml-menu "><a href="/technical-activities/history-css-tab" id="dhtml_menu-1674">History of CSS TAB</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/general/css-member-activities" id="dhtml_menu-1676">Member Activities</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/member-activities/member-activities" id="dhtml_menu-1677">CSS Member Activities</a></li>
+<li class="leaf  dhtml-menu "><a href="/member-activities/mab-directory" id="dhtml_menu-1679">MAB Directory</a></li>
+<li class="leaf  dhtml-menu "><a href="/member-activities/distinguished-lecturers-program" title="Distingushed Lectures Program" id="dhtml_menu-2121">Distinguished Lecturers Program</a></li>
+<li class="leaf  dhtml-menu "><a href="/member-activities/local-area-support-systems" id="dhtml_menu-2011">LASS Program</a></li>
+<li class="leaf  dhtml-menu "><a href="/member-activities/chapter-activities" id="dhtml_menu-1681">CSS Chapter Activities</a></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="http://www.ieeecss.org/member-activities/student-activities-0" id="dhtml_menu-7312">Student Activities</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="http://www.ieeecss.org/member-activities/ieee-css-student-travel-support" id="dhtml_menu-7314">Student Travel Support</a></li>
+<li class="leaf last dhtml-menu "><a href="http://ieeecss.org/member-activities/student-branch-chapters" id="dhtml_menu-7313">Student Branch Chapters</a></li>
+</ul></li>
+<li class="leaf  dhtml-menu "><a href="http://www.ieeecss.org/member-activities/women-control" id="dhtml_menu-6005">Women in Control</a></li>
+<li class="leaf  dhtml-menu "><a href="/general/control-systems-society-outreach-fund" id="dhtml_menu-2013">Outreach Fund</a></li>
+<li class="leaf last dhtml-menu "><a href="/member-activities/css-ieee-fellows" id="dhtml_menu-1682">CSS IEEE Fellows</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/general/financial-activities" id="dhtml_menu-1683">Financial Activities</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/financial-activities/css-financial-activities" id="dhtml_menu-1684">CSS Financial Activities</a></li>
+<li class="leaf  dhtml-menu "><a href="/financial-activities/conference-budgets" id="dhtml_menu-1685">Conference Budgets</a></li>
+<li class="leaf last dhtml-menu "><a href="/financial-activities/travel-support" id="dhtml_menu-1686">Travel Support</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/general/governance-0" id="dhtml_menu-1635">Governance</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/contacts/executive-committee" id="dhtml_menu-1781">CSS Executive Committee</a></li>
+<li class="leaf  dhtml-menu "><a href="/contacts/board-of-governors" id="dhtml_menu-1784">CSS Board of Governors</a></li>
+<li class="leaf  dhtml-menu "><a href="/contacts/past-presidents" id="dhtml_menu-1772">Presidential Gallery</a></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeecss.org/general/presidential-message-archive" id="dhtml_menu-5952">President&#039;s Message</a></li>
+<li class="leaf  dhtml-menu "><a href="/general/ieee-control-systems-society-governance-over-years" id="dhtml_menu-1687">IEEE Control Systems Society Governance Over the Years</a></li>
+<li class="expanded last dhtml-menu  collapsed start-collapsed "><a href="/governance/constitution" id="dhtml_menu-1786">CSS Documents</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/governance/constitution" id="dhtml_menu-1785">Constitution</a></li>
+<li class="leaf  dhtml-menu "><a href="/governance/bylaws" id="dhtml_menu-1787">Bylaws</a></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeecss.org/governance/board-governors-minutes-archive" id="dhtml_menu-1982">BoG Meeting Minutes</a></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeecss.org/sites/ieeecss.org/files/documents/CSS%20Org%20Chart%202012.pdf" target="_blank" id="dhtml_menu-1983">Administrative Chart</a></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeecss.org/sites/ieeecss.org/files/documents/plan2003.pdf" id="dhtml_menu-1984">Strategic Plan</a></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeecss.org/sites/ieeecss.org/files/documents/CSS%20ROSTER%20May2015%20Final.pdf" target="_blank" id="dhtml_menu-1950">Roster</a></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeecss.org/sites/ieeecss.org/files/documents/Roster_Addresses_2015.pdf" target="_blank" id="dhtml_menu-1985">Roster Addresses</a></li>
+<li class="leaf last dhtml-menu "><a href="http://ieeecss.org/sites/ieeecss.org/files/documents/1114_IEEEAcro_9657_1.pdf" id="dhtml_menu-5885">IEEE Acronyms</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf  dhtml-menu "><a href="/general/notes-all-css-members-archive" id="dhtml_menu-1636">Notes to CSS</a></li>
+<li class="leaf  dhtml-menu "><a href="http://ieeecss.org/general/IoCT2-report" id="dhtml_menu-6308">Impact of Control Technology Report - 2nd Edition</a></li>
+<li class="leaf  dhtml-menu "><a href="/publications/online-lecture-library" id="dhtml_menu-1637">Online Lecture Library</a></li>
+<li class="leaf  dhtml-menu "><a href="/video-contest" id="dhtml_menu-6274">Video Clip Contest</a></li>
+<li class="leaf last dhtml-menu "><a href="/contact" id="dhtml_menu-279">Contact Us</a></li>
+</ul>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-block-1" class="block block-block even  grid16-0 ">
+  <div class="inner clearfix">
+            <h2 class="title block-title">Join the Society</h2>
+        <div class="content clearfix">
+      <p><a href="http://www.ieee.org/societies_communities/societies/css.html" target="_blank"><img src="/sites/ieeecss.org/files/images/content/join-css.png" alt="join the css society" height="62" width="150"></a><a href="/general/membership-benefits"><img src="/sites/ieeecss.org/files/images/content/css-mem-bens-icon.png" alt="member benefits link"></a></p>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-block-2" class="block block-block odd  grid16-0 ">
+  <div class="inner clearfix">
+            <h2 class="title block-title">Connect</h2>
+        <div class="content clearfix">
+      <p><a href="http://www.linkedin.com/groupInvitation?gid=1514847" target="_blank"><img src="/sites/ieeecss.org/files/images/content/Linked_In_Logo.png" style="border: 0pt none;" border="0"></a></p>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /sidebar-first-inner -->
+</div><!-- /sidebar-first -->
+
+            <!-- main group: width = grid_width - sidebar_first_width -->
+            <div id="main-group" class="main-group row nested grid16-13">
+              <div id="main-group-inner" class="main-group-inner inner">
+                
+                <div id="main-content" class="main-content row nested">
+                  <div id="main-content-inner" class="main-content-inner inner">
+                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+                    <div id="content-group" class="content-group row nested grid16-13">
+                      <div id="content-group-inner" class="content-group-inner inner">
+                        
+                        
+                        <div id="content-region" class="content-region row nested">
+                          <div id="content-region-inner" class="content-region-inner inner">
+                            <a name="main-content-area" id="main-content-area"></a>
+                                                        <div id="content-inner" class="content-inner block">
+                              <div id="content-inner-inner" class="content-inner-inner inner">
+                                                                <h1 class="title">The Impact of Control Technology</h1>
+                                                                                                <div id="content-content" class="content-content">
+                                  
+<div id="node-345" class="node odd full-node node-type-page">
+  <div class="inner">
+    
+    
+    
+    
+    <div class="content clearfix">
+      <h2>
+	<em>Overview, Success Stories, and Research Challenges</em></h2>
+<p>
+	<strong>Editors:</strong>&nbsp; Tariq Samad (Honeywell) and Anuradha Annaswamy (MIT)</p>
+<p>
+	This report discusses and exemplifies the accomplishments of control technology and future opportunities for the field.&nbsp; Please read the Introduction and Summary below for more information on the content and format of the report.</p>
+<p>
+	The material in this report is freely and publicly available for reuse, provided that the source is acknowledged.&nbsp; The report can be cited as:&nbsp; &quot;<em>The Impact of Control Technology</em>, T. Samad and A.M. Annaswamy (eds.), IEEE Control Systems Society, 2011, available at <a href="../">www.ieeecss.org</a>.&quot;&nbsp; Titles and authors of individual sections should also be acknowledged as appropriate.&nbsp;</p>
+<p>
+	Parts of the report can be accessed in pdf form from the table of contents below.&nbsp; The report includes a number of illustrated flyers; these are also available in high-resolution (HR) versions.&nbsp;</p>
+<p>
+	The report is also available as a consolidated pdf document <a href="https://s3-us-west-2.amazonaws.com/cc-ieeecss/IoCT-FullReport_v2.pdf" target="_blank">here</a> (35 MB).</p>
+<p>
+	The report is published by the IEEE Control Systems Society.&nbsp; Sponsors of the report, in addition to IEEE CSS, are the Institute for Advanced Study and CoTeSys (Technical University of Munich), Deutsche Forschungs-Gemeinschaft, and the U.S. National Science Foundation.</p>
+<p>
+	We welcome new submissions for a possible updated edition&mdash;please e-mail us at <a href="mailto:tariq.samad@honeywell.com">tariq.samad@honeywell.com</a> and <a href="mailto:aanna@mit.edu">aanna@mit.edu</a> if you are interested in contributing.</p>
+<h2>
+	<a href="/sites/ieeecss.org/files/documents/IoCT-TOC.pdf" target="_blank">Contents</a></h2>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Foreword.pdf" target="_blank">Foreword</a> &ndash; <em><a href="/contacts/radhakishan-s-baheti" target="_blank">R.S. Baheti </a>and <a href="/contacts/alkis-konstantellos" target="_blank">A. Konstantellos</a></em>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Preface.pdf" target="_blank">Preface</a> &ndash; <em><a href="/contacts/tariq-samad" target="_blank">T. Samad</a> and <a href="/contacts/anuradha-annaswamy" target="_blank">A.M. Annaswamy</a></em>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-IntroductionAndSummary.pdf" target="_blank">Introduction and Summary</a> &ndash; <em><a href="/contacts/tariq-samad" target="_blank">T. Samad</a> and <a href="/contacts/anuradha-annaswamy" target="_blank">A.M. Annaswamy</a></em>&nbsp;&nbsp; &nbsp;</p>
+
+<h3>
+	<strong>Part 1: Selected Application Domains for Control</strong></h3>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part1-01Aerospace.pdf" target="_blank">Aerospace Control</a> &ndash; <a href="/contacts/christian-philippe" target="_blank"><em>C. Philippe</em></a> et al.&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part1-02ProcessIndustries.pdf" target="_blank">Control in the Process Industries</a> &ndash; <a href="/contacts/ian-craig" target="_blank"><em>I. Craig</em></a> et al.&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part1-03AutomotiveControl.pdf" target="_blank">Automotive Control</a> &ndash; <a href="/contacts/luigi-glielmo" target="_blank"><em>L. Glielmo</em></a> et al.&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part1-04Robotics.pdf" target="_blank">Control in Robotics</a> &ndash; <em><a href="/contacts/mark-w-spong" target="_blank">M. Spong</a> and <a href="/contacts/masayuki-fujita" target="_blank">M. Fujita</a>&nbsp;</em>&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part1-05ControlBioSystems.pdf" target="_blank">Control in Biological Systems</a> &ndash; <a href="/contacts/francis-j-doyle-iii" target="_blank"><em>F.J. Doyle III</em> </a>et al.&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part1-06RESG.pdf" target="_blank">Control for Renewable Energy and Smart Grids</a> &ndash; <a href="/contacts/eduardo-f-camacho" target="_blank"><em>E. Camacho</em> </a>et al.&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part1-07Tools%20and%20Platforms%20Updated.pdf" target="_blank">Cross-Application Perspectives: Tools and Platforms for Control Systems</a> &ndash; <em><a href="/contacts/ken-butts" target="_blank">K. Butts</a> and <a href="/contacts/andras-varga" target="_blank">A. Varga</a></em>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part1-08Application%20and%20market%20rqmts.pdf" target="_blank">Cross-Application Perspectives: Application and Market Requirements</a> &ndash; <em><a href="/contacts/greg-stewart" target="_blank">G. Stewart</a> and <a href="/contacts/tariq-samad" target="_blank">T. Samad</a></em>&nbsp;&nbsp;&nbsp;</p>
+
+<h3>
+	<strong>Part 2: Success Stories in Control</strong></h3>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-01AutoTuners-LR.pdf" target="_blank">Auto-tuners for PID Controllers</a> &ndash; <em><a href="/contacts/karl-johan-astrom">K.J.&nbsp;<strong>&Aring;str&ouml;m</strong></a>&nbsp;and <a href="/contacts/tore-hagglund" target="_blank">T. H&auml;gglund</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-01AutoTuners-HR.pdf" target="_blank">[HR]</a></p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-02SteelRollingMills-LR.pdf" target="_blank">Advanced Tension Control in Steel Rolling Mills</a> &ndash; <em><a href="/contacts/thomas-parisini" target="_blank">T. Parisini</a>, <a href="/contacts/lorenzo-ciani" target="_blank">L. Ciani</a>, and <a href="/contacts/riccardo-ferrari" target="_blank">R. Ferrari</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-02SteelRollingMills-HR.pdf" target="_blank">[HR]</a></p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-03PowerPlants-LR.pdf" target="_blank">Advanced Energy Solutions for Power Plants</a> &ndash; <a href="/contacts/vladimir-havlena" target="_blank"><em>V. Havlena</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-03PowerPlants-HR.pdf" target="_blank">[HR]</a></p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-04MineralProcessing-LR.pdf" target="_blank">Performance Monitoring for Mineral Processing</a> &ndash; <a href="/contacts/chris-aldrich" target="_blank"><em>C. Aldrich</em> </a><a href="/sites/ieeecss.org/files/documents/IoCT-Part2-04MineralProcessing-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-05CementIndustry-LR.pdf" target="_blank">Advanced Control for the Cement Industry</a> &ndash; <a href="/contacts/eduardo-gallestey" target="_blank"><em>E. Gallestey</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-05CementIndustry-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-06PaperMachines-LR.pdf" target="_blank">Cross-Direction Control of Paper Machines</a> &ndash; <a href="/contacts/greg-stewart" target="_blank"><em>G. Stewart</em> </a><a href="/sites/ieeecss.org/files/documents/IoCT-Part2-06PaperMachines-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-07EthylenePlant-LR.pdf" target="_blank">Ethylene Plantwide Control and Optimization</a> &ndash; <em><a href="/contacts/joseph-lu" target="_blank">J. Lu</a> and <a href="/contacts/ravi-nath" target="_blank">R. Nath</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-07EthylenePlant-HR.pdf" target="_blank">[HR]</a></p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-08AutomatedCollisionAvoidance-LR.pdf" target="_blank">Automated Collision Avoidance Systems</a> &ndash; <em><a href="/contacts/claire-j-tomlin" target="_blank">C. Tomlin</a> and <a href="/contacts/heinz-erzberger" target="_blank">H. Erzberger</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-08AutomatedCollisionAvoidance-HR.pdf" target="_blank">[HR]</a> &nbsp;&nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-09FlyByWire-LR.pdf" target="_blank">Digital Fly-by-Wire Technology</a> &ndash; <a href="/contacts/christian-philippe" target="_blank"><em>C. Philippe</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-09FlyByWire-HR.pdf" target="_blank">[HR]</a> &nbsp;&nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-10FlightControl-LR.pdf" target="_blank">Nonlinear Multivariable Flight Control</a> &ndash; <em><a href="/contacts/john-t-bosworth" target="_blank">J. Bosworth</a> and <a href="/contacts/dale-enns" target="_blank">D. Enns</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-10FlightControl-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-11RobustAdaptiveControl-LR.pdf" target="_blank">Robust Adaptive Control for the Joint Direct Attack Munition</a> &ndash; <em><a href="/contacts/kevin-wise" target="_blank">K.A. Wise</a> and <a href="/contacts/eugene-lavretsky" target="_blank">E. Lavretsky</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-11RobustAdaptiveControl-HR.pdf" target="_blank">[HR]</a></p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-12AresLaunchVehicle-LR.pdf" target="_blank">Control of the Flexible Ares 1-X Launch Vehicle</a> &ndash; <a href="/contacts/mark-whorton" target="_blank"><em>M. Whorton</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-12AresLaunchVehicle-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-13HinfinityControl-LR.pdf" target="_blank">H-infinity Control for Telecommunication Satellites</a> &ndash; <a href="/contacts/christian-philippe" target="_blank"><em>C. Philippe</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-13HinfinityControl-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-14FormulaOne-LR.pdf" target="_blank">Control for Formula One!</a> &ndash; <a href="/contacts/malcolm-c-smith" target="_blank"><em>M. Smith</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-14FormulaOne-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-15ActiveSafetyControl-LR.pdf" target="_blank">Active Safety Control for Automobiles</a> &ndash; <a href="/contacts/luigi-glielmo" target="_blank"><em>L. Glielmo</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-15ActiveSafetyControl-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-16AutomatedManualTransmissions-LR.pdf" target="_blank">Automated Manual Transmissions</a> &ndash; <a href="/contacts/luigi-iannelli" target="_blank"><em>L. Iannelli</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-16AutomatedManualTransmissions-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-17SmartWarehouses-LR.pdf" target="_blank">Mobile Robot-Enabled Smart Warehouses</a> &ndash; <a href="/contacts/raffaello-dandrea" target="_blank"><em>R. D&#39;Andrea</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-17SmartWarehouses-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-18MarineVessels-LR.pdf" target="_blank">Dynamic Positioning System for Marine Vessels</a> &ndash; <em><a href="/contacts/shuzhi-sam-ge" target="_blank">S.S. Ge</a>, <a href="/contacts/choo-yoo-sang" target="_blank">C.Y. Sang</a>, and <a href="/contacts/bernard-voon-ee-how" target="_blank">B.V.E. How</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-18MarineVessels-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-19DigitalPrinting-LR.pdf" target="_blank">Digital Printing Control: Print Shop in a Box</a> &ndash; <a href="/contacts/lalit-k-mestha" target="_blank"><em>L.K. Mestha</em></a><a href="/contacts/lalit-k-mestha" target="_blank"> </a><a href="/sites/ieeecss.org/files/documents/IoCT-Part2-19DigitalPrinting-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-20TripOptimizer-LR.pdf" target="_blank">Trip Optimizer for Railroads</a> &ndash; <em><a href="/contacts/david-eldredge" target="_blank">D. Eldredge</a> and <a href="/contacts/paul-houpt" target="_blank">P. Houpt</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-20TripOptimizerForRailroads-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-21RampMetering-LR.pdf" target="_blank">Coordinated Ramp Metering for Freeways</a> &ndash; <em><a href="/contacts/markos-papageorgiou" target="_blank">M. Papageorgiou</a> and <a href="/contacts/ioannis-papamichail" target="_blank">I. Papamichail</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-21RampMetering-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-22MobilePhones-LR.pdf" target="_blank">Control in Mobile Phones</a> &ndash; <a href="/contacts/bo-bernhardsson" target="_blank"><em>B. Bernhardsson</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-22MobilePhones-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part2-23AudioReproduction-LR.pdf" target="_blank">Improved Audio Reproduction with Control Theory</a> &ndash; <a href="/contacts/yutaka-yamamoto" target="_blank"><em>Y. Yamamoto</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part2-23AudioReproduction-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+
+<h3>
+	<strong>Part 3: Cross-Cutting Research Directions</strong></h3>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part3-01NetworkedDecisionSystems.pdf" target="_blank">Networked Decision Systems</a> &ndash; <em><a href="/contacts/munther-dahleh" target="_blank">M. Dahleh</a> and <a href="/contacts/michael-rinehart" target="_blank">M. Rinehart</a></em>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part3-02CyberphysicalSystems.pdf" target="_blank">Cyber-physical Systems</a> &ndash; <em><a href="/contacts/radhakishan-s-baheti" target="_blank">R.S. Baheti </a>and <a href="/contacts/helen-gill" target="_blank">H. Gill</a></em></p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part3-03CognitiveControl.pdf" target="_blank">Cognitive Control</a> &ndash; <em><a href="/contacts/martin-buss" target="_blank">M. Buss</a>, <a href="/contacts/sandra-hirche" target="_blank">S. Hirche</a>, and <a href="/contacts/tariq-samad" target="_blank">T. Samad</a></em></p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part3-04SystemsOfSystems.pdf" target="_blank">Systems of Systems</a> &ndash; <em><a href="/contacts/tariq-samad" target="_blank">T. Samad</a> and <a href="/contacts/thomas-parisini" target="_blank">T. Parisini</a></em><a href="/contacts/thomas-parisini" target="_blank">&nbsp;</a>&nbsp; &nbsp;</p>
+
+<h3>
+	<strong>Part 4: Grand Challenges for Control Research</strong></h3>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-01ArtificialPancreas-LR.pdf" target="_blank">Dynamics and Control for the Artificial Pancreas</a> &ndash; <a href="/contacts/francis-j-doyle-iii" target="_blank"><em>F.J. Doyle III</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-01ArtificialPancreas-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp;&nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-02BacteriumControl-LR.pdf" target="_blank">Redesigning a Bacterium Control System</a> &ndash; <a href="/contacts/richard-murray" target="_blank"><em>R. Murray</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-02BacteriumControl-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-03HighPerformanceControl-LR.pdf" target="_blank">High-Performance Control with Slow Computing!</a> &ndash; <a href="/contacts/richard-murray" target="_blank"><em>R. Murray</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-03HighPerformanceControl-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-04BiophysicalNetworks-LR.pdf" target="_blank">Biophysical Networks</a> &ndash; <a href="/contacts/francis-j-doyle-iii" target="_blank"><em>F.J. Doyle III</em> </a><a href="/sites/ieeecss.org/files/documents/IoCT-Part4-04BiophysicalNetworks-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part%204-05ControlForSmartGrids-LR.pdf" target="_blank">Control for Smart Grids</a> &ndash; <a href="/contacts/tariq-samad" target="_blank"><em>T. Samad</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-05ControlForSmartGrids-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-06ControlForGridResponsiveness-LR.pdf" target="_blank">Control for Grid Responsiveness</a> &ndash; <a href="/contacts/ian-hiskens" target="_blank"><em>I. Hiskens</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-06ControlForGridResponsiveness-HR.pdf" target="_blank">[HR]</a></p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-07EnergyEfficientBuildings-LR.pdf" target="_blank">Control for Energy-Efficient Buildings</a> &ndash; <em><a href="/contacts/petr-stluka" target="_blank">P. Stluka</a> and <a href="/contacts/wendy-foslien" target="_blank">W. Foslien</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-07EnergyEfficientBuildings-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-08ControlForWindPower-LR.pdf" target="_blank">Control for Wind Power</a> &ndash; <em><a href="/contacts/lorenzo-fagiano" target="_blank">L. Fagiano</a> and <a href="/contacts/mario-milanese" target="_blank">M. Milanese</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-08ControlForWindPower-HR.pdf" target="_blank">[HR]</a></p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-09AirTransportation-LR.pdf" target="_blank">Energy-Efficient Air Transportation</a> &ndash; <a href="/contacts/juan-alonso" target="_blank"><em>J. Alonso</em></a> et al. <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-09AirTransportation-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-10VVCofAerospaceControl-LR.pdf" target="_blank">Verification, Validation, and Certification Challenges for Control Systems</a> &ndash; <a href="/contacts/christian-philippe" target="_blank"><em>C. Philippe</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-10VVCofAerospaceControl-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-11CombustionInstability-LR.pdf" target="_blank">Control of Combustion Instability</a> &ndash; <em><a href="/contacts/andrzej-banaszuk" target="_blank">A. Banaszuk</a>, <a href="/contacts/anuradha-annaswamy" target="_blank">A.M. Annaswamy</a>, and <a href="/contacts/sanjay-garg" target="_blank">S. Garg</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-11CombustionInstability-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-12AdvancedDriverAssistance-LR.pdf" target="_blank">Advanced Driver Assistance Systems Through Massive Sensor Fusion</a> &ndash; <a href="/contacts/luigi-glielmo" target="_blank"><em>L. Glielmo</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-12AdvancedDriverAssistance-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-13VehicleToVehicle-LR.pdf" target="_blank">Vehicle-to-Vehicle/Vehicle-to-Infrastructure Control</a> &ndash; <a href="/contacts/luigi-glielmo" target="_blank"><em>L. Glielmo</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-13VehicleToVehicle-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-14ControlForOffshoreOil-LR.pdf" target="_blank">Control for Offshore Oil and Gas Platforms</a> &ndash; <em><a href="/contacts/shuzhi-sam-ge" target="_blank">S.S. Ge</a>, <a href="/contacts/choo-yoo-sang" target="_blank">C.Y. Sang</a>, and <a href="/contacts/bernard-voon-ee-how" target="_blank">B.V.E. How</a></em> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-14ControlForOffshoreOil-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-15AtomicForceMicroscopy-LR.pdf" target="_blank">Control Challenges in High-Speed Atomic Force Microscopy</a> &ndash; <a href="/contacts/reza-moheimani" target="_blank"><em>S.O. Reza Moheimani</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-15AtomicForceMicroscopy-HR.pdf" target="_blank">[HR]</a></p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-16ProcessManufacturingNetworks-LR.pdf" target="_blank">Process Manufacturing Networks</a> &ndash; <em><a href="/contacts/wolfgang-marquardt" target="_blank">W. Marquardt</a> and <a href="/contacts/kathrin-frankl" target="_blank">K. Frankl</a> </em><a href="/sites/ieeecss.org/files/documents/IoCT-Part4-16ProcessManufacturingNetworks-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-17SupplyChain-LR.pdf" target="_blank">Supply Chain as a Control Problem</a> &ndash; <a href="/contacts/kirk-d-smith" target="_blank"><em>K.D. Smith</em></a> et al. <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-17SupplyChain-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-18FinancialEngineering-LR.pdf" target="_blank">Financial Engineering Done Right!</a> &ndash; <a href="/contacts/mathukumalli-vidyasagar" target="_blank"><em>M. Vidyasagar</em></a> <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-18FinancialEngineering-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Part4-19MobileTelecommunications-LR.pdf" target="_blank">Control Challenges in Mobile Telecommunications</a> &ndash; <a href="/contacts/graham-c-goodwin" target="_blank"><em>G. Goodwin</em></a> et al. <a href="/sites/ieeecss.org/files/documents/IoCT-Part4-19MobileTelecommunications-HR.pdf" target="_blank">[HR]</a>&nbsp;&nbsp; &nbsp;</p>
+
+<h3>
+	<strong>Appendices</strong></h3>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Appendix%20A.pdf" target="_blank">Appendix A:&nbsp; &quot;Impact of Control&quot; Berchtesgaden Workshop</a> &ndash; <a href="/contacts/anuradha-annaswamy" target="_blank"><em>A.M. Annaswamy</em>&nbsp;</a>&nbsp; &nbsp;</p>
+<p>
+		<a href="/sites/ieeecss.org/files/documents/IoCT-Appendix%20B.pdf" target="_blank">Appendix B:&nbsp; Contributors to the Report</a></p>    </div>
+
+        <div class="terms">
+      <ul class="links inline"><li class="taxonomy_term_74 first last"><a href="/category/content/general" rel="tag" title="">General</a></li>
+</ul>    </div>
+    
+      </div><!-- /inner -->
+
+  </div><!-- /node-345 -->
+                                                                  </div><!-- /content-content -->
+                                                              </div><!-- /content-inner-inner -->
+                            </div><!-- /content-inner -->
+                          </div><!-- /content-region-inner -->
+                        </div><!-- /content-region -->
+
+                                              </div><!-- /content-group-inner -->
+                    </div><!-- /content-group -->
+
+                                      </div><!-- /main-content-inner -->
+                </div><!-- /main-content -->
+
+                              </div><!-- /main-group-inner -->
+            </div><!-- /main-group -->
+          </div><!-- /main-inner -->
+        </div><!-- /main -->
+      </div><!-- /main-wrapper -->
+
+      <!-- postscript-bottom row: width = grid_width -->
+      
+      <!-- footer row: width = grid_width -->
+      
+      <!-- footer-message row: width = grid_width222222 -->
+      <div id="footer-message-wrapper" class="footer-message-wrapper full-width">
+        <div id="footer-message" class="footer-message row grid16-16">
+          <div id="footer-message-inner" class="footer-message-inner inner clearfix">
+            <div id="footer-message-text" class="footer-message-text block">
+<div id="footer-message-text-inner" class="footer-message-text-inner inner clearfix">
+Site Maintained and Managed by Conference Catalysts, LLC<br />Please contact webmaster, <a href="/contact" alt="Chris Dyer" class="webmaster">Chris Dyer</a> for any inquiries.</div><!-- /footer-message-text-inner -->
+</div><!-- /footer-message-text -->
+          </div><!-- /footer-message-inner -->
+        </div><!-- /footer-message -->
+      </div><!-- /footer-message-wrapper -->
+
+    </div><!-- /page-inner -->
+  </div><!-- /page -->
+  <script type="text/javascript" src="/sites/ieeecss.org/files/js/js_ea35c10fd31da01ffc73fe9c8bb76b4c.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-10269748-7"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>
